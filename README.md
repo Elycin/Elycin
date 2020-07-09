@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey there, I'm Ely 👋
 
-<!--
-**Elycin/Elycin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer that specializes in backend development. I love doing all that fun, nitty gritty, behind the scenes stuff.
 
-Here are some ideas to get you started:
+## Example Work
+### PHP
+[MCProHosting's OneControlCenter](https://panel.mcprohosting.com/)  
+I implemented most of the backend functionality of the control panel that manages thousands of minecraft serviers while utilizing the laravel framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C#
+I'm an avid fan of the .NET framework and love making ASP.NET websites or WPF applications.
+
+[Spectero](https://github.com/projectspectero)  
+Spectero is a VPN marketplace company that allowed users to lease out their infrastuructre to compmanies looking to view webpages from different browsers aroud the workd. I hoped contribute to their daemon development.
+
+## Links
+[Personal Website](https://elyc.in)  
+[Resume](https://elyc.in/resume.pdf)   
+[LinkedIn](https://linkedin.com/in/elycin)  
