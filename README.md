@@ -7,6 +7,9 @@ I'm making most of my changes on a private gitlab instance! My GitHub is not mea
 
 ## Example Work
 ### PHP
+[Teslascope](https://teslascope.com/)  
+I work with [Tyler Corsair](https://github.com/corsair) to consult on performance enhancements with the Teslascope platform.
+
 [MCProHosting's OneControlCenter](https://panel.mcprohosting.com/)  
 I implemented most of the backend functionality of the control panel that manages thousands of minecraft serviers while utilizing the laravel framework.
 
