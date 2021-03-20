@@ -2,8 +2,7 @@
 
 I'm a software developer that specializes in backend development. I love doing all that fun, nitty gritty, behind the scenes stuff.
 
-### Why is there sudden reduced activity on your profile?
-I'm making most of my changes on a private gitlab instance! My GitHub is not meant to be a measurement of my productivity or skills.
+![](https://github-readme-stats.vercel.app/api?username=elycin&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Example Work
 ### PHP
